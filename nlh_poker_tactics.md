@@ -59,7 +59,7 @@
   - [7.5 MES戦略（Maximally Exploitative Strategy）](#75-mes戦略maximally-exploitative-strategy)
   - [7.6 スタット読み（VPIP / PFR / 3bet）](#76-スタット読みvpip--pfr--3bet)
   - [7.7 マルチウェイ（3人以上）のGTO傾向](#77-マルチウェイ3人以上のgto傾向)
-- [第8章 トーナメント固有の調整](tournament_strategy.md)
+- [第8章 トーナメント戦略](tournament_strategy.md)
 - [参考資料](#参考資料)
 
 ---
@@ -833,7 +833,7 @@ MDF = ポット ÷ （ポット + ベット）
 
 ---
 
-## 第8章 トーナメント固有の調整
+## 第8章 トーナメント戦略
 
 > 詳細は [トーナメント戦略（別ページ）](tournament_strategy.md) を参照。
 
